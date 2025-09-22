@@ -1,0 +1,4 @@
+
+Original text: 'Alice was beginning to get very tired.' 
+Encoded: [27, 410, 86, 170, 196, 238, 199, 386, 170, 118, 356, 401, 424, 377, 281, 116, 17] 
+Decoded: 'Alice was beginning to get very tired.' 

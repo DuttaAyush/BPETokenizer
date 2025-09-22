@@ -5,7 +5,7 @@ if __name__ == "__main__":
     tokenizer = BPETokenizer(num_merges=100)
     
     # Sample corpus
-    with open("Alice.txt", "r", encoding="utf-8") as f:
+    with open("../Alice.txt", "r", encoding="utf-8") as f:
         corpus = f.read()
     
     # Train the tokenizer
